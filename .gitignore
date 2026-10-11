@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.numba_cache/
+*.nbi
+*.nbc
+.DS_Store
